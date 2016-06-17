@@ -13,11 +13,11 @@
 //    male=0,
 //    memale
 //}sex;
-typedef NS_ENUM()
-{
-    male=0,
-    memale
-}sex;
+//typedef NS_ENUM()
+//{
+//    male=0,
+//    memale
+//}sex;
 
 @interface ViewController ()
 
@@ -27,9 +27,12 @@ typedef NS_ENUM()
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    if (sex==male) {
-        NSLog(@"nan");
-    }
+//    if (sex==male) {
+//        NSLog(@"nan");
+//    }
+    
+    NSLog(@"---02");
+    
     
     
     // Do any additional setup after loading the view, typically from a nib.
