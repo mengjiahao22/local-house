@@ -34,6 +34,7 @@
     NSLog(@"---02");
     
     
+    NSLog(@"---03");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
